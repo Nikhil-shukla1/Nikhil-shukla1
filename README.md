@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-shukla1&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-shukla1" /> </p>
 
-- 🔭 I’m currently working on **URL shortner**
+- 🔭 I’m currently working with **META CRAFTLAB**
 
-- 🌱 I’m currently learning **MEAN stack**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **c++,Data structure and algorithms, JavaScript, Node.js, express.js**
 
