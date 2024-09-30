@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-shukla1&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-shukla1" /> </p>
 
-- 🔭 I’m currently working with **META CRAFTLAB**
+- 🔭 I’m currently working with **Pacific technoproducts LTD.**
 
 - 🌱 I’m currently learning **MERN stack**
 
