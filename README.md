@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **Pacific technoproducts LTD.**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Cloud**
 
 - 💬 Ask me about **c++,Data structure and algorithms, JavaScript, Node.js, express.js**
 
